@@ -9,7 +9,7 @@ I have proven that you can upload your own videos to S3 and make it public, host
 Necessary:
 
 xcode 7,
-Apple TV 4
+Apple TV 4,
 S3 buckets
 
 
